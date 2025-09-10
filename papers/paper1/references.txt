@@ -1,0 +1,722 @@
+[1] T. Suntola, Sci Rep 1989, 4, 261.
+[2] H. H. Sønsteby, A. Yanguas-Gil, J. W. Elam, J Vac Sci Technol A 2020,
+38, 020804.
+[3] N. E. Richey, C. De Paula, S. F. Bent, J. Chem. Phys. 2020, 152,
+040902.
+[4] Y. Zhao, L. Zhang, J. Liu, K. Adair, F. Zhao, Y. Sun, T. Wu, X. Bi, K.
+Amine, J. Lu, X. Sun, Chem. Soc. Rev. 2021, 50, 3889.
+[5] T. S. Tripathi, M. Karppinen, Adv. Mater. Interfaces 2017, 4, 1700300.
+[6] M. Leskelä, M. Mattinen, M. Ritala, J. Vac. Sci. Technol. B 2019, 37,
+030801.
+[7] V. Zardetto, B. L. Williams, A. Perrotta, F. Di Giacomo, M. A.
+Verheijen, R. Andriessen, W. M. M. Kessels, M. Creatore, Sustain.
+Energy Fuels 2017, 1, 30.
+[8] S. Seo, S. Jeong, H. Park, H. Shin, N. G. Park, Chem. Commun. 2019,
+55, 2403.
+[9] J. A. Raiford, S. T. Oyakhire, S. F. Bent, Energy Environ. Sci. 2020, 13,
+1997.
+[10] T. Jussila, A. Philip, T. Tripathi, K. Nielsch, M. Karppinen, Appl. Phys.
+Rev. 2023, 10, 41313.
+[11] J. P. Niemelä, A. J. Karttunen, M. Karppinen, J. Mater. Chem. C 2015,
+3, 10349.
+[12] M. Madadi, J. Heiska, J. Multia, M. Karppinen, ACS Appl. Mater. Interfaces
+2021, 13, 56793.
+[13] D. J. Hagen, M. E. Pemble, M. Karppinen, Appl. Phys. Rev. 2019, 6,
+041309.
+[14] T. Tynell, M. Karppinen, Semicond. Sci. Technol. 2014, 29, 043001.
+[15] J. P. Niemelä, G. Marin,M. Karppinen, Semicond. Sci. Technol. 2017,
+32, 093005.
+[16] G. Dingemans, W. M. M. Kessels, J Vac Sci Technol A 2012, 30,
+040802.
+[17] J. C. G. Bünzli, Coord. Chem. Rev. 2015, 19, 293.
+[18] A. Ghazy, M. Safdar, M. Lastusaari, H. Savin, M. Karppinen, Sol.
+Energy Mater. Sol. Cells 2021, 230, 111234.
+[19] J. C. G. Bünzli, S. V. Eliseeva, Chem. Sci. 2013, 4, 1939.
+[20] T. Behrsing, G. B. Deacon, P. C. Junk, in R E-B C.Inhib, (Eds.: M.
+Forsyth, B. Hinton), Woodhead Publishing, Cambridge, UK 2014,
+pp. 1–37.
+[21] S. V. Eliseeva, Luminescence of Lanthanide Ions in Coordination Compounds
+and Nanomaterials (Ed.: A. Bettencourt-Dias), Wiley, Hoboken,
+New Jersey 2015.
+[22] Y. Charreire, A. Marbeuf, G. Tourillon, M. Leskelä, L. Niinistö, E.
+Nykänen, P. Soininen, O. Tolonen, J. Electrochem. Soc. 1992, 139,
+619.
+[23] Y. Charreire, O. Tolonen-Kivimäki, E. Nykänen, M. Leskelä, L.
+Niinistö, D. Bonnin, O. Heckmann, Thin Solid Films 1994, 247, 151.
+[24] S. M. George, B. H. Lee, B. Yoon, A. I. Abdulagatov, R. A. Hall, J.
+Nanosci. Nanotechnol. 2011, 11, 7948.
+[25] T. Tynell, M. Karppinen, in Oxide Thin Films Multilayers Nanocomposites,
+Springer International Publishing, Cham 2015, pp. 157–179.
+[26] K. Gregorczyk, M. Knez, Prog. Mater. Sci. 2016, 75, 1.
+[27] M. Safdar, A. Ghazy, M. Lastusaari, M. Karppinen, J. Mater. Chem.
+C 2020, 8, 6946.
+[28] M. Nieminen, M. Putkonen, L. Niinistö, Appl. Surf. Sci. 2001, 174,
+155.
+[29] R. L. Puurunen, A.Delabie, S. Van Elshocht, M. Caymax,M. L.Green,
+B. Brijs, O. Richard, H. Bender, T. Conard, I. Hoflijk,W. Vandervorst,
+D. Hellin, D. Vanhaeren, C. Zhao, S. De Gendt, M. Heyns, Appl. Phys.
+Lett. 2005, 86, 073116.
+[30] S. M. George, Chem. Rev. 2010, 110, 111.
+[31] M. Leskelä, M. Ritala, Thin Solid Films 2002, 409, 138.
+[32] E. Ahvenniemi, M. Matvejeff, M. Karppinen, Dalton Trans. 2015, 44,
+8001.
+[33] H. Wang, J. J. Wang, R. Gordon, J. S. M. Lehn, H. Li, D. Hong, D. V.
+Shenai, Electrochem. Solid-State Lett. 2009, 12, G13.
+[34] A. Tamm, M. Heikkilä, M. Kemell, J. Kozlova, K. Kukli, V.
+Sammelselg, M. Ritala, M. Leskelä, Thin Solid Films 2010, 519, 666.
+[35] T. Yoshimura, S. Tatsuura, W. Sotoyama, Appl. Phys. Lett. 1991, 59,
+482.
+[36] P. Sundberg, M. Karppinen, Beilstein J. Nanotechnol. 2014, 5, 1104.
+[37] J. Multia, M. Karppinen, Adv. Mater. Interfaces 2022, 9, 2200210.
+[38] A. Khayyami, A. Philip, M. Karppinen, Angew. Chem. – Int. Ed. 2019,
+58, 13400.
+[39] A. Philip, J. P. Niemelä, G. C. Tewari, B. Putz, T. E. J. Edwards, M.
+Itoh, I. Utke, M. Karppinen, ACS Appl. Mater. Interfaces 2020, 12,
+21912.
+[40] B. H. Lee, B. Yoon, V. R. Anderson, S. M. George, J. Phys. Chem. C
+2012, 116, 3250.
+[41] A. J. Karttunen, L. Sarnes, R. Townsend, J. Mikkonen, M. Karppinen,
+Adv. Electron. Mater. 2017, 3, 1600459.
+[42] R. M. Silva, J. Rocha, R. F. Silva, Nanoscale 2023, 15, 10423.
+[43] Z. Giedraityte, P. Sundberg, M. Karppinen, J. Mater. Chem. C 2015,
+3, 12316.
+[44] A. Philip, R. Ghiyasi, M. Karppinen, Molecules 2021, 26, 3214.
+[45] L. Momtazi, H. H. Sønsteby, O. Nilsen, Beilstein J. Nanotechnol.
+2019, 9, 399.
+[46] L. Momtazi, D. A. Dartt, O. Nilsen, J. R. Eidet, J. Biomed. Mater. Res.
+– Part A 2018, 106, 3090.
+[47] Z. Giedraityte, J. Sainio, D. Hagen, M. Karppinen, J. Phys. Chem. C
+2017, 121, 17538.
+[48] Z. Giedraityte, O. Lopez-Acevedo, L. A. Espinosa Leal, V. Pale, J.
+Sainio, T. S. Tripathi, M. Karppinen, J. Phys. Chem. C 2016, 120,
+26342.
+[49] E. Ahvenniemi, M. Karppinen, Chem. Mater. 2016, 28, 6260.
+[50] R. L. Puurunen, Chem. Vap. Depos. 2003, 9, 327.
+[51] R. W. Johnson, A. Hultqvist, S. F. Bent, Mater. Today 2014, 17, 236.
+[52] A. C. Jones, H. C. Aspinall, P. R. Chalker, R. J. Potter, K. Kukli, A.
+Rahtu, M. Ritala, M. Leskelä, Mater Sci Eng B Solid State Mater Adv
+Technol 2005, 118, 97.
+[53] N. Boysen, D. Zanders, T. Berning, S.M. J. Beer, D. Rogalla, C. Bock,
+A. Devi, RSC Adv. 2021, 11, 2565.
+[54] L. Mai, N. Boysen, E. Suba¸sı, T. De Los Arcos, D. Rogalla, G.
+Grundmeier, C. Bock, H. L. Lu, A. Devi, RSC Adv. 2018, 8, 4987.
+[55] A. Ghazy, J. Ylönen, N. Subramaniyam, M. Karppinen, Nanoscale
+2023, 15, 15865.
+[56] T. Hatanpää, M. Ritala, M. Leskelä, Coord. Chem. Rev. 2013, 257,
+3297.
+[57] A. Devi, Coord. Chem. Rev. 2013, 257, 3332.
+[58] H. Mölsä, L. Niinistö, M. Utriainen, Adv Mater 1994, 4, 389.
+[59] S. Haukka, T. Suntola, Interface Sci. 1997, 5, 119.
+[60] H. Seim, H. Mölsä, M. Nieminen, H. Fjellvåg, L. Niinistö, J. Mater.
+Chem. 1997, 7, 449.
+[61] P. Kaur, A. Muriqi, J. L. Wree, R. Ghiyasi, M. Safdar, M. Nolan, M.
+Karppinen, A. Devi, Dalton Trans. 2022, 51, 5603.
+[62] Z. Fang, P. A. Williams, R. Odedra, H. Jeon, R. J. Potter, J. Cryst.
+Growth 2012, 338, 111.
+[63] E. Atosuo, K.Mizohata, M. Mattinen, M. Mäntymäki, M. Vehkamäki,
+M. Leskelä, M. Ritala, J. Vac. Sci. Technol. A 2022, 40, 022402.
+[64] J. Rosa, J. Lahtinen, J. Julin, Z. Sun, H. Lipsanen, Materials 2021, 14,
+5966.
+[65] J. Robertson, Rep. Prog. Phys. 2005, 69, 327.
+[66] G. D. Wilk, R. M. Wallace, J. M. Anthony, J. Appl. Phys. 2001, 89,
+5243.
+[67] M. Leskelä, M. Ritala, J. Solid State Chem. 2003, 171, 170.
+[68] S. Ohmi, C. Kobayashi, I. Kashiwagi, C. Ohshima, H. Ishiwara, H.
+Iwai, J. Electrochem. Soc. 2003, 150, F134.
+[69] J. Shi, Y. Hou, W. Chu, X. Shi, H. Gu, B. Wang, Z. Sun, Inorg. Chem.
+2013, 52, 5013.
+[70] K. Nehra, A. Dalal, A. Hooda, S. Bhagwan, R. K. Saini, B. Mari, S.
+Kumar, D. Singh, J. Mol. Struct. 2022, 1249, 131531.
+[71] T. Phillips, D. E. Sands, W. F. Wagner, Inorg. Chem. 1968, 7, 2295.
+[72] B. A. J. Cunningham, D. E. Sands, Inorg. Chem. 1967, 6, 499.
+[73] G. A. M. Hussein, H. M. Ismail, Powder Technol. 1995, 84, 185.
+[74] D. Barreca, G. A. Battiston, D. Berto, R. Gerbasi, E. Tondello, Surf.
+Sci. Spectra 2001, 8, 234.
+[75] G. Malandrino, R. Lo Nigro, C. Benelli, F. Castelli, I. L. Fragalà, Chem.
+Vap. Depos. 2000, 6, 233.
+[76] C. Elschenbroich, Organometallics, 3rd ed., Wiley, Hoboken, NJ
+2006.
+[77] T. Cuenca, P. Royo, Coord. Chem. Rev. 1999, 193–195, 447.
+[78] T. Blanquart, M. Kaipio, J. Niinistö, M. Gavagnin, V. Longo, L.
+Blanquart, C. Lansalot, W. Noh, H. D. Wanzenböck, M. Ritala, M.
+Leskelä, Chem. Vap. Depos. 2014, 20, 217.
+[79] S. Dueñas, H. Castán, H. García, A. Gómez, L. Bailón, K. Kukli, J.
+Aarik, M. Ritala, M. Leskelä, J. Electrochem. Soc. 2008, 155, G241.
+[80] H. L. Lu, G. Scarel, L. Lamagna, M. Fanciulli, S. J. Ding, D.W. Zhang,
+Appl. Phys. Lett. 2008, 93, 152906.
+[81] G. Scarel, C. Wiemer, M. Fanciulli, I. L. Fedushkin, G. K. Fukin, G.
+A. Domrachev, Y. Lebedinskii, A. Zenkevich, G. Pavia, Z. Anorg. Allg.
+Chem. 2007, 633, 2097.
+[82] J. Päiväsaari, M. Putkonen, L. Niinistö, Thin Solid Films 2005, 472,
+275.
+[83] J. Niinistö, N. Petrova, M. Putkonen, L. Niinistö, K. Arstila, T.
+Sajavaara, J. Cryst. Growth 2005, 285, 191.
+[84] J. Päiväsaari, M. Putkonen, T. Sajavaara, L. Niinistö, J. Alloys Compd.
+2004, 374, 124.
+[85] J. S. Wrench, K. Black, H. C. Aspinall, A. C. Jones, J. Bacsa, P. R.
+Chalker, P. J. King, M. Werner, H. O. Davies, P. N. Heys, Chem. Vap.
+Depos. 2009, 15, 259.
+[86] J. Päiväsaari, J. Niinistö, K. Arstila, K. Kukli,M. Putkonen, L.Niinistö,
+Chem. Vap. Depos. 2005, 11, 415.
+[87] R. Xu,Q. Tao, Y. Yang, C. G. Takoudis, Appl. Surf. Sci. 2012, 258, 8514.
+[88] B. Kaczer, J. Franco, P. Weckx, P. J. Roussel, V. Putcha, E. Bury, M.
+Simicic, A. Chasin, D. Linten, B. Parvais, F. Catthoor, G. Rzepa, M.
+Waltl, T. Grasser, Microelectron Reliab 2018, 81, 186.
+[89] M. Houssa, G. Pourtois, M. M. Heyns, A. Stesmans, J Phys Condens
+Matter 2005, 17, S2075.
+[90] A. F. Holleman, E. Wiberg, N. Wiberg, Lehrb. Anorg. Chem. 2007,
+102, 1315.
+[91] M. Lappert, A. Protchenko, P. P. Power, A. Seeber, Metal Amide
+Chemistry, Wiley, Hoboken, NJ 2009.
+[92] D. Zanders, G. Baˇcic, D. Leckie, O. Odegbesan, J. Rawson, J. D.
+Masuda, A. Devi, S. T. Barry, Angew. Chem., Int. Ed. 2020, 59,
+14138.
+[93] M. Brookhart, M. L. H. Green, G. Parkin, Proc. Natl. Acad. Sci. USA
+2007, 104, 6908.
+[94] K. Kukli, M. Ritala, T. Pilvi, T. Sajavaara, M. Leskelä, A. C. Jones, H.
+C. Aspinall, D. C. Gilmer, P. J. Tobin, Chem. Mater. 2004, 16, 5162.
+[95] D. H. Triyoso, R. I. Hegde, J. M. Grant, J. K. Schaeffer, D. Roan, B. E.
+White, P. J. Tobin, J Vac Sci Technol B Microelectron Nanometer Struct
+Process Meas Phenom 2005, 23, 288.
+[96] R. J. Potter, P. R. Chalker, T. D. Manning, H. C. Aspinall, Y. F. Loo, A.
+C. Jones, L. M. Smith, G. W. Critchlow, M. Schumacher, Chem. Vap.
+Depos. 2005, 11, 159.
+[97] K. Kukli, T. Hatanpää, M. Ritala,M. Leskelä, Chem. Vap. Depos. 2007,
+13, 546.
+[98] B. S. Lim, A. Rahtu, R. G. Gordon, Nat. Mater. 2003, 2, 749.
+[99] B. S. Lim, A. Rahtu, J. S. Park, R. G. Gordon, Inorg. Chem. 2003, 42,
+7951.
+[100] P. De Rouffignac, J. S. Park, R. G. Gordon, Chem. Mater. 2005, 17,
+4808.
+[101] J. Päiväsaari, C. L. Dezelah IV, D. Back, H. M. El-Kaderi, M. J. Heeg,
+M. Putkonen, L. Niinistö, C. H. Winter, J. Mater. Chem. 2005, 15,
+4224.
+[102] P. De Rouffignac, R. G. Gordon, Chem. Vap. Depos. 2006, 12, 152.
+[103] K. H. Kim, D. B. Farmer, J. S. M. Lehn, P. Venkateswara Rao, R. G.
+Gordon, Appl. Phys. Lett. 2006, 89, 133512.
+[104] P. De Rouffignac, A. P. Yousef, K. H. Kim, R. G. Gordon, Electrochem.
+Solid-State Lett. 2006, 9, F45.
+[105] L. Du, K. Wang, Y. Zhong, B. Liu, X. Liu, Y. Ding, J. Mater. Sci. 2020,
+55, 5378.
+[106] S. B. Kim, A. Jayaraman, D. Chua, L. M. Davis, S. L. Zheng, X. Zhao,
+S. Lee, R. G. Gordon, Chemistry 2018, 24, 9525.
+[107] K. Xu, R. Ranjith, A. Laha, H. Parala, A. P. Milanov, R. A. Fischer, E.
+Bugiel, J. Feydt, S. Irsen, T. Toader, C. Bock, D. Rogalla, H. J. Osten,
+U. Kunze, A. Devi, Chem. Mater. 2012, 24, 651.
+[108] K. Xu, A. R. Chaudhuri, H. Parala, D. Schwendt, T. D. L. Arcos, H. J.
+Osten, A. Devi, J. Mater. Chem. C 2013, 1, 3939.
+[109] A. P. Milanov, K. Xu, A. Laha, E. Bugiel, R. Ranjith, D. Schwendt, H.
+J. Osten, H. Parala, R. A. Fischer, A. Devi, J. Am. Chem. Soc. 2010,
+132, 36.
+[110] L. Mai, Z. Giedraityte, M. Schmidt, D. Rogalla, S. Scholz, A. D.
+Wieck, A. Devi, M. Karppinen, J. Mater. Sci. 2017, 52, 6216.
+[111] A. Kurek, P. G. Gordon, S. Karle, A. Devi, S. T. Barry, Aust. J. Chem.
+2014, 67, 989.
+[112] S. E. Koponen, P. G. Gordon, S. T. Barry, Polyhedron 2016, 108, 59.
+[113] B. Lee, T. J. Park, A. Hande, M. J. Kim, R. M.Wallace, J. Kim, X. Liu, J.
+H. Yi, H. Li, M. Rousseau, D. Shenai, J. Suydam, Microelectron. Eng.
+2009, 86, 1658.
+[114] S. M. J. Beer, N. Boysen, A. Muriqi, D. Zanders, T. Berning, D.
+Rogalla, C. Bock, M. Nolan, A. Devi, Dalton Trans. 2021, 50, 12944.
+[115] M. Golalikhani, T. James, P. Van Buskirk, W. Noh, J. Lee, Z. Wang, J.
+F. Roeder, J Vac Sci Technol A 2018, 36, 051502.
+[116] S. Seppälä, J. Niinistö, M. Mattinen, K. Mizohata, J. Räisänen, W.
+Noh, M. Ritala, M. Leskelä, Thin Solid Films 2018, 660, 199.
+[117] J. S. Lee, W. H. Kim, I. K. Oh, M. K. Kim, G. Lee, C. W. Lee, J. Park,
+C. Lansalot-Matras, W. Noh, H. Kim, Appl. Surf. Sci. 2014, 297, 16.
+[118] S. Seppälä, J. Niinistö, T. Blanquart, M. Kaipio, K. Mizohata, J.
+Räisänen, C. Lansalot-Matras,W. Noh, M. Ritala,M. Leskelä, Chem.
+Mater. 2016, 28, 5440.
+[119] I. S. Park, Y. C. Jung, S. Seong, J. Ahn, J. Kang, W. Noh, C. Lansalot-
+Matras, J. Mater. Chem. C 2014, 2, 9240.
+[120] B. Zhao, F. Mattelaer, G. Rampelberg, J. Dendooven, C. Detavernier,
+ACS Appl. Mater. Interfaces 2020, 12, 3179.
+[121] S. T. Barry, Chemistry of Atomic Layer Deposition, De Gruyter, Berlin,
+Germany 2022.
+[122] K. Bernal Ramos, M. J. Saly, Y. J. Chabal, Coord. Chem. Rev. 2013,
+257, 3271.
+[123] G. K. Mussabek, D. Yermukhamed, K. K. Dikhanbayev, al -. , J.
+Key Lee, M.-S. Lee, S. Hong, J. Li, G. Chai, X. Wang, G. V. Kunte,
+S. A. Shivashankar, A. M. Umarji, Meas. Sci. Technol. 2008, 19,
+025704.
+[124] P. Kaur, L. Mai, A. Muriqi, D. Zanders, R. Ghiyasi, M. Safdar, N.
+Boysen, M. Winter, M. Nolan, M. Karppinen, A. Devi, Chemistry
+2021, 27, 4913.
+[125] M. Putkonen, M. Nieminen, J. Niinistö, L. Niinistö, T. Sajavaara,
+Chem. Mater. 2001, 13, 4701.
+[126] A. Kosola, J. Päiväsaari, M. Putkonen, L. Niinistö, Thin Solid Films
+2005, 479, 152.
+[127] N. A. Stafford, R. Katamreddy, L. Guerin, B. Feist, C. Dussarrat, ECS
+Meet. Abstr. 2009, MA2009-01, 821.
+[128] R. Xu, S. K. Selvaraj, N. Azimi, C. G. Takoudis, ECSMeet. Abstr. 2012,
+MA2012-02, 2467.
+[129] J. Kwon,M. Dai,M. D.Halls, E. Langereis, Y. J. Chabal, R. G. Gordon,
+J. Phys. Chem. C 2009, 113, 654.
+[130] K. Kukli, H. Heikkinen, E. Nykänen, L. Niinistö, J. Alloys Compd.
+1998, 275–277, 10.
+[131] K. Kukli, M. Peussa, L. S. Johansson, E. Nykänen, L. Niinistö, Mater.
+Sci. Forum 1999, 315–317, 216.
+[132] T. Pilvi, E. Puukilainen, F.Munnik, M. Leskelä,M. Ritala, Chem. Vap.
+Depos. 2009, 15, 27.
+[133] T. Pilvi, E. Puukilainen, K. Arstila, M. Leskelä, M. Ritala, Chem. Vap.
+Depos. 2008, 14, 85.
+[134] E. Atosuo, M. Mäntymäki, L. Pesonen, K. Mizohata, T. Hatanpää,
+M. Leskelä, M. Ritala, Dalton Trans. 2023, 52, 10844.
+[135] L. Nyns, X. Shi, H. Tielens, S. Van Elshocht, L. Date, R.
+Schreutelkamp, J. Vac. Sci. Technol. Vac. Surf. Films 2012, 30, 01A120.
+[136] E. Bal´lee, A. Ringuedé, M. Cassir, M. Putkonen, L. Niinis¨to, Chem.
+Mater. 2009, 21, 4614.
+[137] A. Tamm, J. Kozlova, T. Arroval, L. Aarik, P. Ritslaid, H. García, H.
+Castán, S. Dueñas, K. Kukli, J. Aarik, Chem. Vap. Depos. 2015, 21,
+181.
+[138] J. M. Gaskell, A. C. Jones, H. C. Aspinall, S. Przybylak, P. R. Chalker,
+K. Black, H. O. Davies, P. Taechakumput, S. Taylor, G. W. Critchlow,
+J. Mater. Chem. 2006, 16, 3854.
+[139] M. Tuomisto, Z. Giedraityte, M. Karppinen, M. Lastusaari, Phys Status
+Solidi Rapid Res Lett 2017, 11, 1700076.
+[140] A. Ghazy, M. Safdar, M. Lastusaari, A. Aho, A. Tukiainen, H. Savin,
+M. Guina, M. Karppinen, Sol. Energy Mater. Sol. Cells 2021, 219,
+110787.
+[141] M. N. Getz, P. A.Hansen, Ø. S. Fjellvåg,M. A. K. Ahmed, H. Fjellvåg,
+O. Nilsen, J. Mater. Chem. C 2017, 5, 8572.
+[142] M. N. Getz, O. Nilsen, P.-A. Hansen, Sci. Rep. 2019, 9, 10247.
+[143] M. Y. Arsent’ev, M. V. Kalinina, P. A. Tikhonov, L. V. Morozova, T. L.
+Egorova, O. A. Shilova, Glass Phys. Chem. 2014, 40, 629.
+[144] K. Solehmainen, M. Kapulainen, P. Heimala, K. Polamo, IEEE Photonics
+Technol. Lett. 2004, 16, 194.
+[145] L. Yang, J. Xu, K. Yuan, Y. Yang, J. Sun, Appl. Phys. Lett. 2021, 118,
+141104.
+[146] J. Rosa,M. J.Heikkilä, M. Sirkiä, S.Merdes, Materials 2021, 14, 1505.
+[147] Z. Ouyang, Y. Yang, J. Sun, Scr. Mater. 2018, 151, 1.
+[148] Z. Ouyang, Y. Yang, J. Sun, Opt. Mater. 2018, 80, 209.
+[149] J. Liu, Z. Ouyang, Y. Yang, J. Sun, J. Alloys Compd. 2020, 832, 154964.
+[150] J. Xu, L. Yang, Z. Ma, Y. Yang, J. Sun, J. Alloys Compd. 2021, 885,
+160993.
+[151] T. P. Holme, C. Lee, F. B. Prinz, Solid State Ion. 2008, 179, 1540.
+[152] C. C. Chao, Y. B. Kim, F. B. Prinz, Nano Lett. 2009, 9, 3626.
+[153] C. N. Ginestra, R. Sreenivasan, A. Karthikeyan, S. Ramanathan, P. C.
+McIntyre, Electrochem. Solid-State Lett. 2007, 10, B161.
+[154] Y. Charreire, R. Cortes, E. Nykänen, L. Niinistö, P. Soininen, M.
+Leskelä, Fresenius J Anal Chem 1998, 362, 41.
+[155] Y. Yang, Z. Ouyang, J. Liu, J. Sun, Phys Status Solidi Rapid Res Lett
+2019, 13, 1900137.
+[156] N. Al Helou, L. Khomenkova, E. Cadel, C. Labbé, J. Cardin, F.
+Gourbilleau, E. Talbot, Mater. Sci. Eng. B 2023, 296, 116672.
+[157] T. T. Van, J. P. Chang, Appl. Phys. Lett. 2005, 87, 011907.
+[158] T. T. Van, J. R. Bargar, J. P. Chang, J. Appl. Phys. 2006, 100, 023115.
+[159] T. T. Van, J. Hoang, R. Ostroumov, K. L. Wang, J. R. Bargar, J. Lu, H.
+O. Blom, J. P. Chang, J. Appl. Phys. 2006, 100, 073512.
+[160] J. Hoang, T. T. Van, M. Sawkar-Mathur, B. Hoex, M. C. M. Van De
+Sanden, W. M. M. Kessels, R. Ostroumov, K. L.Wang, J. R. Bargar,
+J. P. Chang, J. Appl. Phys. 2007, 101, 123116.
+[161] Z. Yu, K. Yuan, Y. Yang, J. Sun, Nanoscale 2022, 14, 10540.
+[162] L. Lamagna, C. Wiemer, S. Baldovino, A. Molle, M. Perego, S.
+Schamm-Chardon, P. E. Coulon, M. Fanciulli, Appl. Phys. Lett. 2009,
+95, 122902.
+[163] J. H. Shim, J. S. Park, J. An, T. M. Gür, S. Kang, F. B. Prinz, Chem.
+Mater. 2009, 21, 3290.
+[164] J. Niinistö, K. Kukli, T. Sajavaara, M. Ritala,M. Leskelä, L. Oberbeck,
+J. Sundqvist, U. Schröder, Electrochem. Solid-State Lett. 2008, 12, G1.
+[165] Q. Tao, G. Jursich, P. Majumder, M. Singh, W. Walkosz, P. Gu, R.
+Klie, C. Takoudis, Electrochem. Solid-State Lett. 2009, 12, G50.
+[166] P. Majumder, G. Jursich, C. Takoudis, J. Appl. Phys. 2009, 105,
+104106.
+[167] J. Gluch, T. Rößler, S. B. Menzel, J. Eckert, Microelectron. Eng. 2011,
+88, 561.
+[168] L. Wu, H. Y. Yu, K. L. Pey, J. S. Pan, M. Tuominen, E. Tois, D. Y. Lee,
+K. Y. Hsu, K. T. Huang, H. J. Tao, Y. J. Mii, Electrochem. Solid-State
+Lett. 2010, 13, G21.
+[169] C. Wiemer, L. Lamagna, S. Baldovino, M. Perego, S. Schamm-
+Chardon, P. E. Coulon,O. Salicio, G. Congedo, S. Spiga,M. Fanciulli,
+Appl. Phys. Lett. 2010, 96, 182901.
+[170] C. Adelmann, H. Tielens, D. Dewulf, A. Hardy, D. Pierreux, J. Swerts,
+E. Rosseel, X. Shi, M. K. Van Bael, J. A. Kittl, S. Van Elshocht, J. Electrochem.
+Soc. 2010, 157, G105.
+[171] T. Wang, J. G. Ekerdt, Chem. Mater. 2009, 21, 3096.
+[172] T. Wang, J. G. Ekerdt, Chem. Mater. 2010, 22, 3798.
+[173] L. Aarik, K. Peetermann, L. Puust, H. Mändar, A. Kikas, I. Sildos, J.
+Aarik, J. Alloys Compd. 2021, 868, 159100.
+[174] K. Kukli, L. Aarik, G. Vinuesa, S. Dueñas, H. Castán, H. García,
+A. Kasikov, P. Ritslaid, H. M. Piirsoo, J. Aarik, Materials 2022, 15,
+877.
+[175] J. Kim, B. S. Kim, A. J. Lee, D. H. Han, J. H. Hwang, Y. Kim, K. C.
+Song, H. Oh, S. Kim, Y. Park, W. Jeon, Ceram. Int. 2022, 48, 3236.
+[176] Y. Lee, K. Kim, Z. Lee, H.-S. Lee, H.-B.-R. Lee, W.-H. Kim, I.-K. Oh,
+H. Kim, Chem. Mater. 2023, 2312.
+[177] M. I. Popovici, A. M. Walke, J. Bizindavyi, J. Meersschaut, K.
+Banerjee, G. Potoms, K. Katcko, G. Van Den Bosch, R. Delhougne,
+G. S. Kar, J. Van Houdt, ACS Appl. Electron. Mater. 2022, 4, 1823.
+[178] K. Yuan, Z. Yu, L. Yang, Y. Yang, J. Sun, ACS Appl. Nano Mater. 2022,
+5, 17949.
+[179] R. Ma, Z. Yu, Z. Ye, Y. Yang, J. Sun, Appl. Surf. Sci. 2023, 639, 158187.
+[180] A. Tamm, J. Kozlova, L. Aarik, J. Aarik, K. Kukli, J. Link, R. Stern, J.
+Vac. Sci. Technol. Vac. Surf. Films 2015, 33, 01A127.
+[181] P.-A.Hansen, H. Fjellvåg, T.G. Finstad,O.Nilsen, J. Vac. Sci. Technol.
+Vac. Surf. Films 2015, 34, 01A130.
+[182] H. Kim, Y. Park, D. Jeong, S. Hong, Coatings 2023, 13, 491.
+[183] M. D. McDaniel, A. Posadas, T. Q. Ngo, C. M. Karako, J. Bruley, M.
+M. Frank, V. Narayanan, A. A. Demkov, J. G. Ekerdt, J. Appl. Phys.
+2014, 115, 224108.
+[184] J. Rosa, J. Deuermeier, P. J. Soininen, M. Bosund, Z. Zhu, E.
+Fortunato, R. Martins, M. Sugiyama, S. Merdes, Materials 2020, 13,
+93.
+[185] Z. Ma, Z. Yu, Y. Yang, J. Sun, J. Lumin. 2022, 241, 118544.
+[186] Z. Yu, Y. Yang, J. Sun, Opt. Mater. 2021, 122, 111691.
+[187] Y. Zhang, S. Hu, P. Y. Chen, J. Zhu, B. Chen, R. Bai, H. Zhu, L. Chen,
+D.W. Zhang, J. C. Lee, Q. Sun, J. G. Ekerdt, L. Ji, Nanoscale 2023, 15,
+9432.
+[188] H. Seim, M. Nieminen, L. Niinistö, H. Fjellvåg, L. S. Johansson,
+Appl. Surf. Sci. 1997, 112, 243.
+[189] E. P. Gusev, E. Cartier, D. A. Buchanan, M. Gribelyuk, M. Copel, H.
+Okorn-Schmidt, C. D’Emic, Microelectron. Eng. 2001, 59, 341.
+[190] P. A. Hansen, H. Fjellvåg, T. Finstad, O. Nilsen, Dalton Trans. 2013,
+42, 10778.
+[191] E. Atosuo, J. Ojala, M. J. Heikkilä, M. Mattinen, K. Mizohata, J.
+Räisänen,M. Leskelä,M. Ritala, J Vac Sci Technol A 2021, 39, 022404.
+[192] P. Myllymäki, M. Nieminen, J. Niinistö, M. Putkonen, K. Kukli, L.
+Niinistö, J. Mater. Chem. 2006, 16, 563.
+[193] A. Lamperti, E. Cianci, U. Russo, S. Spiga,O. Salicio,G. Congedo,M.
+Fanciulli, J. Vac. Sci. Technol., B: Nanotechnol. Microelectron.: Mater.,
+Process., Meas., Phenom. 2011, 29, 01AE03.
+[194] L. Nyns, J. G. Lisoni, G. Van Den Bosch, S. Van Elshocht, J. Van
+Houdt, Phys. Status Solidi Appl. Mater. Sci. 2014, 211, 409.
+[195] H. H. Sønsteby, E. Skaar, Ø. S. Fjellvåg, J. E. Bratvold, H. Fjellvåg,
+O. Nilsen, Nat. Commun. 2020, 11, 2872.
+[196] O. Nilsen, M. Peussa, H. Fjellvåg, L. Niinistö, A. Kjekshus, J. Mater.
+Chem. 1999, 9, 1781.
+[197] M. Nieminen, S. Lehto, L. Niinistö, J. Mater. Chem. 2001, 11, 3148.
+[198] K. Bergum, A. Magrasó, H. Fjellvåg, O. Nilsen, J. Mater. Chem. A
+2014, 2, 18463.
+[199] O. Nilsen, E. Rauwel, H. Fjellvåg, A. Kjekshus, J. Mater. Chem. 2007,
+17, 1466.
+[200] M. Lie, O. Nilsen, H. Fjellvåg, A. Kjekshus, Dalton Trans. 2009, 481.
+[201] H. H. Sønsteby, T. Aarholt, Ø. Prytz, H. Fjellvåg, O. Nilsen, Chem.
+Commun. 2018, 54, 8253.
+[202] M. Duparc, H. H. Sønsteby, O. Nilsen, A. O. Sjåstad, H. Fjellvåg,
+Materials 2020, 13, 24.
+[203] E. Kazyak, K. H. Chen, K. N. Wood, A. L. Davis, T. Thompson, A.
+R. Bielinski, A. J. Sanchez, X. Wang, C. Wang, J. Sakamoto, N. P.
+Dasgupta, Chem. Mater. 2017, 29, 3785.
+[204] T. Aaltonen, M. Alnes, O. Nilsen, L. Costelle, H. Fjellvåg, J. Mater.
+Chem. 2010, 20, 2877.
+[205] H. H. Sønsteby, E. Skaar, J. E. Bratvold, J. W. Freeland, A. Yanguas-
+Gil, J. W. Elam, O. Nilsen, H. Fjellvåg, J. Mater. Chem. C 2020, 8,
+12662.
+[206] T. T. Van, J. P. Chang, Surf. Sci. 2005, 596, 1.
+[207] N. A. Stafford, R. Katamreddy, L. Guerin, B. Feist, C. Dussarrat, V.
+Pallem, C. Weiland, R. Opila, ECS Trans. 2009, 19, 525.
+[208] M. Ameen, L. Nyns, S. Sioncke, D. Lin, T. s. Ivanov, T. Conard, J.
+Meersschaut, M. Y. Feteha, S. Van Elshocht, A. Delabie, ECS J. Solid
+State Sci. Technol. 2014, 3, N133.
+[209] J. H. Han, L. Nyns, A. Delabie, A. Franquet, S. Van Elshocht, C.
+Adelmann, Chem. Mater. 2014, 26, 1404.
+[210] M. S. Lebedev, V. N. Kruchinin, M. Y. Afonin, I. V. Korolkov, A. A.
+Saraev, A. A. Gismatulin, V. A. Gritsenko, Appl. Surf. Sci. 2019, 478,
+690.
+[211] R. Rahman, J. P. Klesko, A. Dangerfield, M. Fang, J.-S. M. Lehn, C.
+L. Dezelah, R. K. Kanjolia, Y. J. Chabal, J Vac Sci Technol A 2019, 37,
+011504.
+[212] M. Putkonen, T. Sajavaara, L. S. Johansson, L. Niinistö, Chem. Vap.
+Depos. 2001, 7, 44.
+[213] M. Håkansson, M. Helin, M. Putkonen, Q. Jiang, M. Kotiranta, J.
+Suomi, A. J. Niskanen, T. Ala-Kleme, S. Kulmala, Anal. Chim. Acta
+2005, 541, 135.
+[214] Y. Yang, H. Pei, Z. Ye, J. Sun, Nanomater 2023, 13, 849.
+[215] J. Niinistö, M. Putkonen, L. Niinistö, Chem. Mater. 2004, 16, 2953.
+[216] P. Majumder, G. Jursich, A. Kueltzo, C. Takoudis, J. Electrochem. Soc.
+2008, 155, G152.
+[217] C. Dussarrat, N. Blasco, W. Noh, J. Lee, J. Greer, T. Teramoto, S.
+Kamimura, N. Gosset, T. Ono, Coatings 2021, 11, 497.
+[218] A. I. Abdulagatov, R. R. Amashaev, K. N. Ashurbekova, S. M.
+Ramazanov, D. K. Palchaev, A. M. Maksumova, M. K. Rabadanov,
+I. M. Abdulagatov, Russ. Microelectron. 2019, 48, 1.
+[219] A. Nishida, T. Katayama, Y. Matsuo, RSC Adv. 2023, 13, 27255.
+[220] K. Uusi-Esko, J. Malm, M. Karppinen, Chem. Mater. 2009, 21, 5691.
+[221] K. Uusi-Esko, M. Karppinen, Chem. Mater. 2011, 23, 1835.
+[222] J. H. Choi, C. Pham, J. Dorman, T. Kim, J. P. Chang, J. Magn. Magn.
+Mater. 2020, 498, 166146.
+[223] L. B. Young, C.-K. Cheng, G.-J. Lu, K.-Y. Lin, Y.-H. Lin, H.-W. Wan,
+M.-Y. Li, R.-F. Cai, S.-C. Lo, C.-H. Hsu, J. Kwo, M. Hong, J. Vac. Sci.
+Technol. Vac. Surf. Films 2017, 35, 01B123.
+[224] R. Haugsrud, A. E. Gunnaes, O. Nilsen, Oxid. Met. 2003, 59, 215.
+[225] X. L. Li, D. Tsoutsou, G. Scarel, C.Wiemer, S. C. Capelli, S.N. Volkos,
+L. Lamagna, M. Fanciulli, J. Vac. Sci. Technol. Vac. Surf. Films 2009,
+27, L1.
+[226] S. Ahn, P. Littlewood, Y. Liu, T. J. Marks, P. C. Stair, ACS Catal. 2022,
+12, 10522.
+[227] S. J. Jo, J. S. Ha, N. K. Park, D. K. Kang, B. H. Kim, Thin Solid Films
+2006, 513, 253.
+[228] W. Zhao, J. Jiang, Y. Luo, J. Li, Y. Ding, Coat 2023, 13, 870.
+[229] W. He, D. S. H. Chan, S.-J. Kim, Y.-S. Kim, S.-T. Kim, B. J. Cho, J.
+Electrochem. Soc. 2008, 155, G189.
+[230] W. H. Kim, W. J. Maeng, K. J. Moon, J. M. Myoung, H. Kim, Thin
+Solid Films 2010, 519, 362.
+[231] T. Suzuki, M. Kouda, P. Ahmet, H. Iwai, K. Kakushima, T. Yasuda, J.
+Vac. Sci. Technol. Vac. Surf. Films 2012, 30, 051507.
+[232] B. A. Sperling, J. E. Maslar, S. V. Ivanov, J. Vac. Sci. Technol. Vac. Surf.
+Films 2018, 36, 031513.
+[233] S. Kamiyama, E. Kurosawa, Y. Nara, J. Electrochem. Soc. 2008, 155,
+H373.
+[234] W. S. Kim, S. K. Park, D. Y. Moon, T. S. Kim, B. W. Kang, J. K. Seo, H.
+D. Kim, J. W. Park, J Korean Phys Soc 2008, 53, 3334.
+[235] W. S. Kim, S. K. Park, D. Y. Moon, B. W. Kang, H. D. Kim, J. W. Park,
+J Korean Phys Soc 2009, 55, 590.
+[236] H. Kim, S.Woo, J. Lee, H. Kim, Y. Kim, H. Lee, H. Jeon, J. Electrochem.
+Soc. 2010, 157, H479.
+[237] Y. Kim, S. Woo, H. Kim, J. Lee, H. Kim, H. Lee, H. Jeona, J. Mater.
+Res. 2010, 25, 1898.
+[238] S. R. Patil, V. Y. Borokar, M. Rasadujjaman, J. Zhang, S. J. Ding, A.
+M. Mahajan, J Mater Sci Mater Electron 2023, 34, 1284.
+[239] G. Scarel, A. Debernardi, D. Tsoutsou, S. Spiga, S. C. Capelli, L.
+Lamagna, S. N. Volkos, M. Alia, M. Fanciulli, Appl. Phys. Lett. 2007,
+91, 102901.
+[240] D. Tsoutsou, G. Scarel, A. Debernardi, S. C. Capelli, S. N. Volkos, L.
+Lamagna, S. Schamm, P. E. Coulon,M. Fanciulli, Microelectron. Eng.
+2008, 85, 2411.
+[241] K. S. Agrawal, V. N. Barhate, V. S. Patil, L. S. Patil, A. M. Mahajan,
+Appl. Phys. A: Mater. Sci. Process. 2020, 126, 650.
+[242] W. He, S. Schuetz, R. Solanki, J. Belot, J. McAndrew, Electrochem.
+Solid-State Lett. 2004, 7, G131.
+[243] D. H. Triyoso, R. I. Hegde, J. Grant, P. Fejes, R. Liu, D. Roan, M.
+Ramon, D.Werho, R. Rai, L. B. La, J. Baker, C. Garza, T. Guenther, B.
+E. White, P. J. Tobin, J. Vac. Sci. Technol. B Microelectron. Nanometer
+Struct. 2004, 22, 2121.
+[244] K. Kukli, M. Ritala, V. Pore, M. Leskelä, T. Sajavaara, R. I. Hegde, D.
+C. Gilmer, P. J. Tobin, A. C. Jones, H. C. Aspinall, Chem. Vap. Depos.
+2006, 12, 158.
+[245] R. Inman, S. A. Schuetz, C. M. Silvernail, S. Balaz, P. A. Dowben,
+G. Jursich, J. McAndrew, J. A. Belot, Mater. Chem. Phys. 2007, 104,
+220.
+[246] S. Abermann, C. Henkel, O. Bethge, G. Pozzovivo, P. Klang, E.
+Bertagnolli, Appl. Surf. Sci. 2010, 256, 5031.
+[247] M. Nieminen, T. Sajavaara, E. Rauhala, M. Putkonen, L. Niinistö, J.
+Mater. Chem. 2001, 11, 2341.
+[248] S. Y. Kim, H. Kwon, S. J. Jo, J. S. Ha, W. T. Park, D. K. Kang, B. H.
+Kim, Appl. Phys. Lett. 2007, 90, 103104.
+[249] H. H. Sønsteby, E. Østreng, H. Fjellvåg, O. Nilsen, Thin Solid Films
+2014, 550, 90.
+[250] B. S. Lim, A. Rahtu, P. De Rouffignac, R. G. Gordon, Appl. Phys. Lett.
+2004, 84, 3957.
+[251] Y. Liu, H. Kim, J.-J. Wang, H. Li, R. G. Gordon, ECS Trans. 2008, 16,
+471.
+[252] N. M. Sbrockey, M. Luong, E. M. Gallo, J. D. Sloppy, G. Chen, C. R.
+Winkler, S. H. Johnson, M. L. Taheri, G. S. Tompa, J. E. Spanier, J.
+Electron. Mater. 2012, 41, 819.
+[253] C. Fei, H. Liu, X. Wang, X. Fan, Nanoscale Res. Lett. 2015, 10,
+180.
+[254] H. H. Sønsteby, E. Skaar, H. Fjellvåg, O. Nilsen, ACS Appl. Electron.
+Mater. 2021, 3, 292.
+[255] A. Del Vitto, R. Piagge, E. Ravizza, S. Spadoni, A. Sebastiani, C.
+Scozzari, C. Wiemer, G. Ghidini, M. Alessandri, M. Fanciulli, J. W.
+Maes, M. Verghese, ECS Trans. 2010, 33, 417.
+[256] M. Putkonen, T. Aaltonen, M. Alnes, T. Sajavaara, O. Nilsen, H.
+Fjellvåg, J. Mater. Chem. 2009, 19, 8767.
+[257] H. H. Sønsteby, E. Østreng, O. Nilsen, Chem. Vap. Depos. 2014, 20,
+269.
+[258] H. H. Sønsteby, J. E. Bratvold, K. Weibye, H. Fjellvåg, O. Nilsen,
+Chem. Mater. 2018, 30, 1095.
+[259] K. Shen, J. Chang, R. K. Rai, C. Y. Wang, E. A. Stach, R. J. Gorte, J. M.
+Vohs, J. Phys. Chem. C 2023, 127, 15591.
+[260] J. M. Gaskell, A. C. Jones, H. C. Aspinall, S. Taylor, P. Taechakumput,
+P. R. Chalker, P. N. Heys, R. Odedra, Appl. Phys. Lett. 2007, 91,
+112912.
+[261] D. Tsoutsou, L. Lamagna, S. N. Volkos, A. Molle, S. Baldovino,
+S. Schamm, P. E. Coulon, M. Fanciulli, Appl. Phys. Lett. 2009, 94,
+053504.
+[262] K. B. Jinesh, W. F. A. Besling, E. Tois, J. H. Klootwijk, R. Wolters, W.
+Dekkers, M. Kaiser, F. Bakker, M. Tuominen, F. Roozeboom, Appl.
+Phys. Lett. 2008, 93, 062903.
+[263] S. Abermann, C. Henkel, O. Bethge, E. Bertagnolli, ECS Meet. Abstr.
+2008, MA2008-02, 1944.
+[264] M. Putkonen, A. Szeghalmi, E. Pippel, M. Knez, J. Mater. Chem.
+2011, 21, 14461.
+[265] J. Päiväsaari, M. Putkonen, L. Niinistö, J. Mater. Chem. 2002, 12,
+1828.
+[266] P. Cop, E. Celik, K. Hess, Y. Moryson, P. Klement, M. T. Elm, B. M.
+Smarsly, ACS Appl. Nano Mater. 2020, 3, 10757.
+[267] D. H. K. Jackson, M. M. Schwartz, C. Ngo, D. Facteau, S. Pylypenko,
+C. L. Marshall, A. A. Dameron, J Vac Sci Technol A 2019, 37,
+020919.
+[268] H. Hemmelmann, R. Ruess, P. Klement, J. Schörmann, S.
+Chatterjee, J. Sann, M. T. Elm, Adv. Mater. Interfaces 2023, 10,
+2202268.
+[269] W.-H. Kim, M.-K. Kim, W. J. Maeng, J. Gatineau, V. Pallem, C.
+Dussarrat, A. Noori, D. Thompson, S. Chu, H. Kim, J. Electrochem.
+Soc. 2011, 158, G169.
+[270] W. J. Maeng, I. K. Oh, W. H. Kim, M. K. Kim, C. W. Lee, C. Lansalot-
+Matras, D. Thompson, S. Chu, H. Kim, Appl. Surf. Sci. 2014, 321,
+214.
+[271] U. Kumar, C. Feit, S. N. Berriel, A. Arunachalam, T. S. Sakthivel, K.
+Basu, P. Banerjee, S. Seal, J Vac Sci Technol A 2021, 39, 060405.
+[272] E. Gourba, A. Ringuedé, M. Cassir, A. Billard, J. Päiväsaari, J.
+Niinistö, M. Putkonen, L. Niinistö, Ionics 2003, 9, 15.
+[273] K. Shen, S. Lee, O. Kwon, M. Fan, R. J. Gorte, J. M. Vohs, ACS Catal.
+2023, 13, 11144.
+[274] K. Shen,M. Fan, R. K. Rai, E. A. Stach, R. J. Gorte, J.M. Vohs, J. Solid
+State Chem. 2023, 323, 124055.
+[275] H. Kondo, H. Matsui, K. Furuta,M. Sakashita, S. Zaima, Jpn. J. Appl.
+Phys. 2010, 49, 04DA14.
+[276] J. M. Gaskell, S. Przybylak, A. C. Jones, H. C. Aspinall, P. R. Chalker,
+K. Black, R. J. Potter, P. Taechakumput, S. Taylor, Chem.Mater. 2007,
+19, 4796.
+[277] W. L. I. Waduge, Y. Chen, P. Zuo, N. Jayakodiarachchi, T. F. Kuech, S.
+E. Babcock, P. G. Evans, C. H. Winter, ACS Appl. Nano Mater. 2019,
+2, 7449.
+[278] L. Khomenkova, H. Merabet, M. P. Chauvat, C. Frilay, X. Portier, C.
+Labbe, P. Marie, J. Cardin, S. Boudin, J.M. Rueff, F. Gourbilleau, Surf.
+Interfaces 2022, 34, 102377.
+[279] Y. Sun, Q. Wang, T. J. Park, T. E. Gage, Z. Zhang, X. Wang, D. Zhang,
+X. Sun, J. He, H. Zhou, D. G. Lim, C. Huang, H. Yu, X. Chen, H.
+Wang, J.Mei, E. Deguns, S. Ramanathan, ACS Appl. Electron. Mater.
+2021, 3, 1719.
+[280] E. Rauwel, A. Galeckas, P. Rauwel, P. A. Hansen, D. Wragg, O.
+Nilsen, H. Fjellvåg, Mater. Res. Express 2016, 3, 055010.
+[281] E. Rauwel, A. Galeckas, P. Rauwel, P.-A. Hansen, D. Wragg, O.
+Nilsen, H. Fjellvåg, ECS Meet. Abstr. 2014, MA2014-02, 1599.
+[282] P. A. Hansen, C. S. Granerød, Ø. Prytz, O. Nilsen, J. Lumin. 2019,
+215, 116618.
+[283] P. A. Hansen, T. G. Finstad, O. Nilsen, Chem. Vap. Depos. 2014, 20,
+274.
+[284] A. Ferrier, N. Harada, M. Scarafagio, E. Briand, J. J. Ganem, I.
+Vickridge, A. Seyeux, P. Marcus, D. Serrano, P. Goldner, A. Tallaire,
+J. Phys. Chem. C 2020, 124, 19725.
+[285] P. A. Hansen, H. Fjellvåg, T. G. Finstad, O. Nilsen, RSC Adv. 2014,
+4, 11876.
+[286] M. N. Getz, P. A. Hansen, H. Fjellvåg, O. Nilsen, RSC Adv. 2017, 7,
+8051.
+[287] H. Kim, H. J. Yun, B. J. Choi, RSC Adv. 2018, 8, 42390.
+[288] H. J. Yun, S. Y. Ryu, H. Y. Lee,W. Y. Park, S. G. Kim, B. J. Choi, Ceram.
+Int. 2021, 47, 16597.
+[289] A. P. Milanov, R. A. Fischer, A. Devi, Inorg. Chem. 2008, 47, 11405.
+[290] R. Ranjith, A. Laha, E. Bugiel, H. J. Osten, K. Xu, A. P. Milanov, A.
+Devi, Semicond. Sci. Technol. 2010, 25, 105001.
+[291] S. Dueñas, H. Castán, H. García, A. Gómez, L. Bailón, K. Kukli, T.
+Hatanpää, J. Lu, M. Ritala, M. Leskelä, J. Electrochem. Soc. 2007,
+154, G207.
+[292] H. García, S. Dueñas, H. Castán, A. Gómez, L. Bailón, R. Barquero,
+K. Kukli, M. Ritala, M. Leskelä, J. Vac. Sci. Technol. B Microelectron.
+Nanometer Struct. 2009, 27, 416.
+[293] S. A. Vitale, P. W. Wyatt, C. J. Hodson, J. Vac. Sci. Technol. Vac. Surf.
+Films 2012, 30, 01A130.
+[294] J. H. Han, A. Delabie, A. Franquet, T. Conard, S. Van Elshocht, C.
+Adelmann, Chem. Vap. Depos. 2015, 21, 352.
+[295] C. Adelmann, D. Pierreux, J. Swerts, D. Dewulf, A. Hardy, H. Tielens,
+A. Franquet, B. Brijs, A. Moussa, T. Conard, M. K. Van Bael, J. W.
+Maes, M. Jurczak, J. A. Kittl, S. Van Elshocht, Chem. Vap. Depos.
+2010, 16, 170.
+[296] I. Jõgi, A. Tamm, K. Kukli, M. Kemell, J. Lu, T. Sajavaara, M. Ritala,
+M. Leskelä, J. Electrochem. Soc. 2010, 157, G202.
+[297] P. Myllymäki, M. Roeckerath, M. Putkonen, S. Lenk, J. Schubert,
+L. Niinistö, S. Mantl, Appl. Phys. A: Mater. Sci. Process. 2007, 88,
+633.
+[298] C. Bohr, P. Yu, M. Scigaj, C. Hegemann, T. Fischer, M. Coll, S.
+Mathur, Thin Solid Films 2020, 698, 137848.
+[299] Y. Yang, N. Li, J. Sun, Opt. Express 2018, 26, 9344.
+[300] E. Cianci, A. Lamperti, G. Congedo, S. Spiga, ECS J. Solid State Sci.
+Technol. 2012, 1, P5.
+[301] I. K. Oh, K. Kim, Z. Lee, K. Y. Ko, C. W. Lee, S. J. Lee, J. M. Myung, C.
+Lansalot-Matras, W. Noh, C. Dussarrat, H. Kim, H. B. R. Lee, Chem.
+Mater. 2015, 27, 148.
+[302] T. T. Van, J. P. Chang, Appl. Surf. Sci. 2005, 246, 250.
+[303] R. Xu, C. G. Takoudis, ECS J. Solid State Sci. Technol. 2012, 1, N107.
+[304] C. L. Dezelah, P. Myllymäki, J. Päiväsaari, K. Arstila, L. Niinistö, C.
+H. Winter, J. Mater. Chem. 2007, 17, 1308.
+[305] S. Vangelista, A. Lamperti, C. Wiemer, M. Fanciulli, R. Mantovan,
+Thin Solid Films 2016, 604, 18.
+[306] Y. Liu, Z. Ouyang, J. Liu, L. Yang, Y. Yang, J. Sun, J. Phys. Appl. Phys.
+2020, 53, 215104.
+[307] Y. Liu, Z. Ouyang, L. Yang, Y. Yang, J. Sun, Nanomaterials 2019, 9,
+413.
+[308] R. E. Agbenyeke, E. A. Jung, B. K. Park, T. M. Chung, C. G. Kim, J. H.
+Han, Appl. Surf. Sci. 2017, 419, 758.
+[309] M. Bosund, K. Mizohata, T. Hakkarainen, M. Putkonen, M.
+Söderlund, S. Honkanen, H. Lipsanen, Appl. Surf. Sci. 2009, 256,
+847.
+[310] M. Getz, P. A. Hansen, M. A. K. Ahmed, H. Fjellvåg, O. Nilsen, Dalton
+Trans. 2017, 46, 3008.
+[311] G. Scarel, E. Bonera, C. Wiemer, G. Tallarida, S. Spiga, M. Fanciulli,
+I. L. Fedushkin, H. Schumann, Y. u. Lebedinskii, A. Zenkevich, Appl.
+Phys. Lett. 2004, 85, 630.
+[312] E. Bonera, G. Scarel, M. Fanciulli, P. Delugas, V. Fiorentini, Phys. Rev.
+Lett. 2005, 94, 027602.
+[313] C. Adelmann, J. Swerts, T. Conard, B. Brijs, A. Franquet, A. Hardy,
+H. Tielens, K. Opsomer, A. Moussa, M. K. Van Bael, M. Jurczak, J.
+A. Kittl, S. Van Elshocht, ECS Trans. 2011, 34, 473.
+[314] J. L. T. M. Moret, M. B. E. Griffiths, J. E. B. M. Frijns, B. E. Terpstra,
+H. T.Wolterbeek, S. T. Barry, A. G. Denkova, J. R. van Ommen, J Vac
+Sci Technol A 2020, 38, 022414.
+[315] G. Scarel, C. Wiemer, G. Tallarida, S. Spiga, G. Seguini, E. Bonera,
+M. Fanciulli, Y. Lebedinskii, A. Zenkevich, G. Pavia, I. L. Fedushkin,
+G. K. Fukin, G. A. Domrachev, J. Electrochem. Soc. 2006, 153,
+F271.
+[316] Z. Ma, Z. Yu, X. Guo, Y. Yang, J. Sun, ACS Appl. Nano Mater. 2023,
+6, 12312.
+[317] Z. Giedraityte, L. S. Johansson, M. Karppinen, RSC Adv. 2016, 6,
+103412.
+[318] A. Ghazy, M. Lastusaari, M. Karppinen, Chem. Mater. 2023, 35,
+5988.
+[319] M. Safdar, A. Ghazy, M. Tuomisto, M. Lastusaari, M. Karppinen, J.
+Mater. Sci. 2021, 56, 12634.
+[320] A. Ghazy, M. Lastusaari, M. Karppinen, J. Mater. Chem. C 2023, 11,
+5331.
+[321] Z. Giedraityte,M. Tuomisto, M. Lastusaari, M. Karppinen, ACS Appl.
+Mater. Interfaces 2018, 10, 8845.
+[322] M. Tuomisto, Z. Giedraityte, L. Mai, A. Devi, V. Boiko, K.
+Grzeszkiewicz, D. Hreniak, M. Karppinen, M. Lastusaari, J. Lumin.
+2019, 213, 310.
+[323] Y. Yang, L. Chen, F. Jiang, M. Yu, X.Wan, B. Zhang,M.Hong, J. Mater.
+Chem. C 2017, 5, 1981.
+[324] A. De Bettencourt-Dias, Luminescence of Lanthanide Ions in Coordination
+Compounds and Nanomaterials, JohnWiley&Sons Ltd, Chichester,
+United Kingdom, 2014.
+[325] J. Penttinen, M. Nisula, M. Karppinen, Chemistry 2017, 23, 18225.
+[326] A. Ghazy, M. Safdar, M. Lastusaari, M. Karppinen, Chem. Commun.
+2020, 56, 241.
+[327] P. A. Hansen, J. Svendsen, H. Nesteng, O. Nilsen, RSC Adv. 2022,
+12, 18063.
+[328] R. M. Silva, L. D. Carlos, J. Rocha, R. F. Silva, Appl. Surf. Sci. 2020,
+527, 146603.
+[329] K. H. Goh, A. S. M. A. Haseeb, Y. H. Wong, Mater. Sci. Semicond.
+Process. 2017, 68, 302.
+[330] J. Robertson, R. M. Wallace, Mater Sci Eng R Rep 2015, 88, 1.
+[331] J. Robertson, J Vac Sci Technol B Microelectron Nanometer Struct Process
+Meas Phenom 2000, 18, 1785.
+[332] L. Yang, J. Luo, L. Gao, B. Song, J. Tang, J. Phys. Chem. Lett. 2022,
+2022, 4365.
+[333] T. Harazono, R. Adachi, Y. Shimomura, T. Watanabe, Phys. Chem.
+Chem. Phys. 2001, 3, 2943.
+[334] M. Bieza,M. Guzik, E. Tomaszewicz, Y. Guyot, K. Lebbou, G. Boulon,
+J. Phys. Chem. C 2017, 121, 13303.
+[335] J. D. B. Bradley, M. Pollnau, Laser Photonics Rev. 2011, 5, 368.
+[336] M. Pan, W. M. Liao, S. Y. Yin, S. S. Sun, C. Y. Su, Chem. Rev. 2018,
+118, 8889.
+[337] S. SeethaLekshmi, A. R. Ramya,M. L. P. Reddy, S. Varughese, J. Photochem.
+Photobiol. C Photochem. Rev. 2017, 33, 109.
+[338] A. R. Ramya, S. Varughese, M. L. P. Reddy, Dalton Trans. 2014, 43,
+10940.
+[339] Z. Zhang, Y. Chen, H. Chang, Y. Wang, X. Li, X. Zhu, J. Mater. Chem.
+C 2020, 8, 2205.
+[340] V. Kumar, V. Bhardwaj, A. Kaushik, ACS Appl. Electron. Mater. 2021,
+3, 2261.
+[341] S. Tabanli, G. Eryurek, J. Nanophotonics 2018, 12, 026008.
+[342] Y. Zhang, J. Hao, J. Appl. Phys. 2013, 113, 184112.
+[343] A. Nadort, J. Zhao, E. M. Goldys, Nanoscale 2016, 8, 13099.
+[344] J. Benick, B. Hoex, M. C. M. Van De Sanden, W. M. M. Kessels, O.
+Schultz, S. W. Glunz, Appl. Phys. Lett. 2008, 92, 253504.
+[345] G. Chen, J. Shen, T. Y. Ohulchanskyy, N. J. Patel, A. Kutikov, Z. Li, J.
+Song, R. K. Pandey, H. Agren, P. N. Prasad, G. Han, ACS Nano 2012,
+6, 8280.
+[346] M. R. Hamblin, Dalton Trans. 2018, 47, 8571.
+[347] D. Yang, P. Ma, Z. Hou, Z. Cheng, C. Li, J. Lin, Chem. Soc. Rev. 2015,
+44, 1416.
+[348] W. R. Algar, N. Hildebrandt, S. S. Vogel, I. L. Medintz, Nat. Methods
+2019, 16, 815.
+[349] H. Sahoo, J. Photochem. Photobiol. C Photochem. Rev. 2011,
+12, 20.
+[350] S. Hepojoki, J. Rusanen, J. Hepojoki, V. Nurmi, A. Vaheri, Å.
+Lundkvist, K. Hedman, O. Vapalahti, J ClinMicrobiol 2015, 53, 2292.
+[351] I. Hemmilä, V. Laitala, J Fluoresc 2005, 15, 529.
+[352] M. Weber, N. Boysen, O. Graniel, A. Sekkat, C. Dussarrat, P. Wiff, A.
+Devi, D. Muñoz-Rojas, ACS Mater Au 2023, 3, 274.
+[353] J. N. Brönsted, Recl. Trav. Chim. Pays-Bas 1923, 4, 514.
+

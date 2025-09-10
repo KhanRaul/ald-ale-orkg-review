@@ -1,0 +1,24 @@
+Material,Dopant,Application,Refs.
+ZnS,Tb,Luminescence,[22]
+CaS,"Tb, Ce, Eu",Luminescence,"[23,64]"
+SrS,"Tb, Ce",Luminescence,[154]
+Al 2 O 3,"Er, Yb, (Er,Yb)","Waveguides, Luminescence","[144,147,155,156]"
+Y 2 O 3,"Er, Eu",Luminescence,"[146,157-160]"
+Y 3 Ga 5 O 12,Er,Luminescence,[161]
+ZrO 2,"Y, La, Dy","Electrolyte, Interphase","[137,151-153,162,163]"
+HfO 2,"Y, La,Pr, Gd, Er,Dy","Gate dielectrics, Memory",[164-176]
+HfO 2 /ZrO 2,"Y, La, Gd.",Memory,[177]
+Ga 2 O 3,"Nd,Er",Luminescence,"[145,178]"
+GeO 2,Er,Luminescence,[179]
+Yb 2 O 3,Er,Luminescence,[148]
+TiO 2,"La, Pr, Nd, Sm, Eu, Tb, Dy, Ho, Er, Tm, Yb","Magnetics, Luminescence","[180,181]"
+Yb x Ti y O z,"La, Pr, Nd, Sm, Eu, Tb, Dy, Ho, Er, Tm",Luminescence,[181]
+YDC,Y,Electrolyte,"[136,182]"
+SrTiO 3,La,Gate dielectrics,[183]
+Y 2 O 3-x S x,Eu,Luminescence,[184]
+YVO 4,"Nd, Sm, Eu, Tb, Dy, Ho, Er, Tm, Yb",Thermometry,"[141,142]"
+Gd 3 Ga 5 O 12,Er,Luminescence,[185]
+Yb 3 Al 5 O 12,Er,Luminescence,[149]
+Lu 3 Al 5 O 12,Er,Luminescence,[150]
+ZnGa 2 O 4,Er,Luminescence,[186]
+SrSnO 3,La,Optoelectronics,[187]
